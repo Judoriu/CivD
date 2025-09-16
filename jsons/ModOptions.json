@@ -1,6 +1,8 @@
 {
-    "modUrl":"",
+    "modUrl":"https://github.com/Judoriu/CivD.git",
     "defaultBranch":"main",
     "author":"Judoriu",
-    "isBaseRuleset": true
+    "isBaseRuleset": true,
+    "modSize": 931,
+    "lastUpdated": 16/09/2025
 }
