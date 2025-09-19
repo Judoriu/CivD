@@ -414,7 +414,8 @@
 			{
 				"name": "Banking",
 				"row": 9,
-                "uniques": ["[+100]% weight to this choice for AI decisions", "Unavailable <before discovering [Guilds]> <before discovering [Education]>"],
+				"prerequisites": ["Guilds", "Education"]
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
 			},
 			{
@@ -850,6 +851,7 @@
 		]
 	}
 ]
+
 
 
 
